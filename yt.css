@@ -1,0 +1,293 @@
+@import url("https://fonts.googleapis.com/css2?family=Berkshire+Swash&family=Cherish&family=Cinzel+Decorative&family=Corinthia&family=Gwendolyn:wght@400;700&family=Kaushan+Script&family=Lobster&family=Lobster+Two:ital,wght@1,700&family=Mea+Culpa&family=MonteCarlo&family=Playfair+Display:ital@1&family=Praise&family=Tangerine&display=swap");
+html {
+  scroll-behavior: smooth;
+  overflow: scroll;
+}
+#bh {
+  display: inline-block;
+  margin-top: 12rem;
+  margin: 1.3rem;
+  color: rgb(255, 255, 255);
+  font-size: xx-small;
+
+  background: rgba(255, 255, 255, 0.1);
+
+  border-radius: 15px;
+  box-shadow: 27px 27px 100px rgba(0, 0, 0, 0.5);
+  height: 28rem;
+  background-size: 50rem 32rem;
+}
+.container {
+  max-width: auto;
+}
+body {
+  background-image: linear-gradient(
+      to bottom,
+      rgba(0, 0, 0, 0.3),
+      rgba(0, 0, 0)
+    ),
+    url(images/ima23.jpeg);
+  background-size: 110% 56rem;
+  background-repeat: no-repeat;
+}
+#f3 {
+  background-image: url(images/aj.jpg);
+}
+h5 {
+  font-family: "Cinzel Decorative";
+  font-size: medium;
+  font-weight: bolder;
+}
+p {
+  font-style: italic;
+  font-weight: bold;
+  font-size: small;
+}
+.slider .card {
+  margin-top: 50rem;
+  margin: -23rem;
+}
+#et {
+  color: rgb(0, 0, 0);
+  background: white;
+  text-align: center;
+  transition: all ease 0.5s;
+  text-align: center;
+  font-weight: bold;
+}
+
+.btn:hover {
+  background: -webkit-linear-gradient(left, #b224ef, #7579ff);
+}
+
+.primary-button a {
+  text-decoration: none;
+  margin-top: 5px;
+  margin-bottom: 25px;
+  width: 10rem;
+  padding: 0px 18px;
+  height: 4rem;
+  background-color: orange;
+  font-size: 1rem;
+  color: #ffffff;
+  font-weight: 600;
+  display: inline-block;
+  text-align: center;
+  line-height: 36px;
+  border-radius: 30px;
+  padding-top: 0.8rem;
+}
+#uy {
+  font-size: 5.5rem;
+  font-style: normal;
+  margin-top: 3rem;
+  text-shadow: 2px 2px black;
+}
+
+footer {
+  text-align: center;
+  background-color: #133022ea;
+  height: 22rem;
+  padding-top: 9rem;
+
+  font-size: larger;
+}
+.map {
+  background-color: #f4f4f4;
+  padding: 2rem;
+}
+#cd {
+  width: 100%;
+  height: 100%;
+  padding-bottom: 2rem;
+}
+#logo {
+  color: orange;
+  font-size: 2.5rem;
+  font-weight: bolder;
+  font-family: "Monte Carlo";
+}
+
+#hm {
+  color: rgb(255, 255, 255);
+  align-items: center;
+  justify-content: space-between;
+  font-weight: 500;
+  display: flex;
+  margin: 0 4.5rem;
+  font-family: "Berkshire Swash", cursive;
+  font-size: large;
+  color: rgb(255, 255, 255);
+}
+#ab {
+  color: rgb(255, 255, 255);
+  align-items: center;
+  justify-content: space-between;
+  font-weight: 500;
+  display: flex;
+  font-size: large;
+  margin: 0 4.5rem;
+  font-family: "Berkshire Swash", cursive;
+  color: rgb(255, 255, 255);
+}
+
+#ab :hover {
+  color: var(--orange);
+}
+#pt {
+  font-family: "Monte Carlo";
+  margin-left: 45rem;
+  font-weight: bold;
+}
+#co {
+  color: rgb(255, 255, 255);
+  align-items: center;
+  justify-content: space-between;
+  font-weight: 500;
+  display: flex;
+  font-size: large;
+  margin: 0 4.5rem;
+  font-family: "Berkshire Swash", cursive;
+  color: rgb(255, 255, 255);
+}
+
+.card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.12), 0 4px 8px rgba(0, 0, 0, 0.06);
+}
+
+.column {
+  background: linear-gradient(to bottom, orangered, rgb(255, 238, 0));
+  margin-left: 9rem;
+  margin-top: 5rem;
+  height: 3.7rem;
+  border-radius: 30px;
+  width: 12rem;
+  padding-top: 1.1rem;
+  padding-left: 0.3rem;
+  font-size: 0.955rem;
+  font-weight: 700;
+  margin-right: 0rem;
+}
+#iu {
+  padding-left: 2rem;
+}
+#vr {
+  padding-left: 2.6rem;
+  padding-top: 1.4rem;
+}
+
+#gi {
+  padding-left: 0.6rem;
+  padding-top: 0.9rem;
+}
+.card {
+  width: 20%;
+  height: 16rem;
+  display: inline-block;
+  margin: 3rem;
+  top: 50%;
+}
+
+.accordion {
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  text-align: center;
+  border: none;
+  outline: none;
+  transition: 0.4s;
+}
+
+.accordion {
+  background: black;
+  color: white;
+}
+
+.panel {
+  padding: 0 18px;
+  background-color: white;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+}
+
+#fj {
+  height: 5rem;
+}
+#aa {
+  height: 3rem;
+  width: 50%;
+  padding-top: 9.5px;
+}
+
+span a .btn:hover {
+  letter-spacing: 3px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/*Time to apply widths for accordian to work
+  Width of image = 640px
+  total images = 5
+  so width of hovered image = 640px
+  width of un-hovered image = 40px - you can set this to anything
+  so total container width = 640 + 40*4 = 800px;
+  default width = 800/5 = 160px;
+  */
+
+.accordian {
+  width: 805px;
+  height: 320px;
+  overflow: hidden;
+  /*Time for some styling*/
+
+  margin: 100px auto;
+  box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.35);
+  -webkit-box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.35);
+  -moz-box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.35);
+}
+/*A small hack to prevent flickering on some browsers*/
+
+.accordian ul {
+  width: 2000px;
+  /*This will give ample space to the last item to move
+      instead of falling down/flickering during hovers.*/
+}
+
+.accordian li {
+  position: relative;
+  display: block;
+  width: 160px;
+  float: left;
+  border-left: 1px solid #888;
+  box-shadow: 0 0 25px 10px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 0 0 25px 10px rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0 0 25px 10px rgba(0, 0, 0, 0.5);
+  /*Transitions to give animation effect*/
+
+  transition: all 0.5s;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  /*If you hover on the images now you should be able to 
+      see the basic accordian*/
+}
+/*Reduce with of un-hovered elements*/
+
+.accordian ul:hover li {
+  width: 40px;
+}
+/*Lets apply hover effects now*/
+/*The LI hover style should override the UL hover style*/
+
+.accordian ul li:hover {
+  width: 640px;
+}
+
+.accordian li img {
+  display: block;
+}
+/*Image title styles*/
